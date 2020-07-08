@@ -1,7 +1,7 @@
 <p align="center">
   <img width="500px" src="assets/lazer.png">
 </p>
-
+[![Run on Repl.it](https://repl.it/badge/github/ppy/osu)](https://repl.it/github/ppy/osu)
 # osu!
 
 [![Build status](https://ci.appveyor.com/api/projects/status/u2p01nx7l6og8buh?svg=true)](https://ci.appveyor.com/project/peppy/osu)
